@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Mert 😡😡</title>
+  </head>
+  <body style="background-color: rgb(80, 80, 100);">
+    <button type="button" name="lBtn" style="font-size: 50px" onclick="if(tag>0)window.location.search = '?a='+(tag-1);">⬅</button>
+    <button type="button" name="rBtn" style="font-size: 50px" onclick="if(tag<stories.length-1)window.location.search = '?a='+(tag+1);">➡</button>
+    <h1 id="titl" style="text-align: center; font-size: 50px">.</h1>
+    <h1 id="text" style="text-align: center; font-family: Comic Sans MS">.</h1>
+    <script src="stories.js"></script>
+    <script type="text/javascript">
+      let tag = window.location.search.split("=")[1];
+      tag = (tag == undefined)?0:parseInt(tag);
+      let story = stories[tag];
+      document.getElementById("titl").firstChild.data = story[0];
+      document.getElementById("text").firstChild.data = story[1];
+    </script>
+  </body>
+</html>
