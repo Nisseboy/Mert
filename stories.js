@@ -25,6 +25,18 @@ Genast fastnade trädet mellan Obamas tänder och han dog en snabb död. Bruh, t
 Slut!
 
 `],[
+"Mert 3 - Bögskalet", `
+Den här gången åkte Mert i ett racingskal 🏎, Borp var också med 👌. De hade nämligen planerat en roadtrip till Skåne, det skulle blir jättekul, tänkte de nöjt.
+Det de däremot inte visste var att det just då flög en kåt runkapa flygandes mot dem i väldans fart. BONK lät det när apans magnum dong penetrerade skaldörren.
+Det tog tyvärr inte slut där däremot, när apan träffade skaldörren blev han så hård att hans massiva tegelsten av kuk våldsamt sögs upp i Borps röv, ut ur hans näsa och sedan
+störtade in i Merts oförberedda rövhål. Aj, tänkte Borp lite ledset 🙁. Hejsan, jag heter Knorrp, hälsade apan glatt. Han gungade fram och tillbaka lite och stönade som om han precis 
+hade missat sitt flyg 😩. Sedan slet han ut sin kuk så snabbt att hela skalet skakade, alla dog nästan av kraften av hans fruktfulla bärstjälk. Sshhchschlorp, lät det.
+Då hände däremot någonting VÄLDIGT konstigt, Boris Johnson kom in i bilen. Genast absorberade han genom röven pizzan Mert hade tänkt äta till lunch 🍕. Mert slog våldsamt
+och fylld av ilska till Boris i hans bastanta bollar 😡. Boris tjöt ut av smärta och hans bollar exploderade, vilket ledde till att bilen nu var fylld av sperma ⬜⬜.
+Knorrp blev också träffad konstigt nog. Nånting väldigt kusligt hände också 👻, Det sögs upp i Boris näsa. Han kunde inte andas och 
+eftersom Mert inte kunde se något (på grund av sperman), så körde han rakt in i ett kukformat träd. Då dog Boris av död. Eftersom Mert, Borp och Knorrp var hungriga
+så grillade de Boris. Mmm så gott, tänkte Mert nöjt och petade snabbt in grillpinen i sin röv. Slut!
+`],[
 "Mert", `
 test
 
