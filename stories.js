@@ -36,9 +36,16 @@ och fylld av ilska till Boris i hans bastanta bollar 😡. Boris tjöt ut av sm�
 Knorrp blev också träffad konstigt nog. Nånting väldigt kusligt hände också 👻, Det sögs upp i Boris näsa. Han kunde inte andas och 
 eftersom Mert inte kunde se något (på grund av sperman), så körde han rakt in i ett kukformat träd. Då dog Boris av död. Eftersom Mert, Borp och Knorrp var hungriga
 så grillade de Boris. Mmm så gott, tänkte Mert nöjt och petade snabbt in grillpinen i sin röv. Slut!
-`],[
+`]
+]
+
+
+/*
+
+,[
 "Mert", `
 test
 
 `]
-]
+
+*/
