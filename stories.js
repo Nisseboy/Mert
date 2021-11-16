@@ -47,6 +47,7 @@ Väl hemma åt han upp brödet genom att suga upp det i sin röv, tantjäveln do
 upp näven i sin röv ✊. Brännskadan var ganska stor, tänkte hna, så han hällde en massa coca cola i röven.
 Det började däremot bubbla så våldsamt att det sprutade flera liter cola överallt, då blev hans hus fyllt med cola. Slut!
 `]
+]
 
 
 /*
