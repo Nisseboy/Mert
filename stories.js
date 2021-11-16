@@ -36,8 +36,7 @@ och fylld av ilska till Boris i hans bastanta bollar 😡. Boris tjöt ut av sm�
 Knorrp blev också träffad konstigt nog. Nånting väldigt kusligt hände också 👻, Det sögs upp i Boris näsa. Han kunde inte andas och 
 eftersom Mert inte kunde se något (på grund av sperman), så körde han rakt in i ett kukformat träd. Då dog Boris av död. Eftersom Mert, Borp och Knorrp var hungriga
 så grillade de Boris. Mmm så gott, tänkte Mert nöjt och petade snabbt in grillpinen i sin röv. Slut!
-`]
-],[
+`],[
 "Mert 4 - Gubbjäveln", `
 Idag hade Mert fått nog men äventyr, så han tänkte att han bara skulle sitta mitt ute i vägen och läsa om Bob, sin kusin. Bob var mot alla odds också en snigelkott, wow😮. När han satt
 där ute mitt på vägen och chillade kom en sur gubbjävel. Hej, jag är sur 😡, sa han surt. Därefter sniglade han sig en bit längs med vägen, direkt blev han överkörd. 
