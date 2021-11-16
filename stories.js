@@ -37,7 +37,17 @@ Knorrp blev också träffad konstigt nog. Nånting väldigt kusligt hände ocks�
 eftersom Mert inte kunde se något (på grund av sperman), så körde han rakt in i ett kukformat träd. Då dog Boris av död. Eftersom Mert, Borp och Knorrp var hungriga
 så grillade de Boris. Mmm så gott, tänkte Mert nöjt och petade snabbt in grillpinen i sin röv. Slut!
 `]
-]
+],[
+"Mert 4 - Gubbjäveln", `
+Idag hade Mert fått nog men äventyr, så han tänkte att han bara skulle sitta mitt ute i vägen och läsa om Bob, sin kusin. Bob var mot alla odds också en snigelkott, wow😮. När han satt
+där ute mitt på vägen och chillade kom en sur gubbjävel. Hej, jag är sur 😡, sa han surt. Därefter sniglade han sig en bit längs med vägen, direkt blev han överkörd. 
+Det gjorde att han dog till döds ☠. Han sura tantjävel till fru kom därför snabbt och slog Mert. Aj, sa han fyllt av smärta och tryckte in sin stenhårda kuk i hennes öga?!
+aj, tänkte hon också. Efterswom snigelkottar är så hala kunde Mert våldsamt suga in tantjäveln i sin tajta röv, oof 🙄. Inuti Merts röv var det tydligen varmt och mjukt. 
+Så mjukt att hon somnade på direketen. Väl utanför Mert röv gick Mert tillbaka till sin rövhåla (den i Finland alltså). På vägen hem köpte han en bit bröd som var ganska varm.
+Väl hemma åt han upp brödet genom att suga upp det i sin röv, tantjäveln dog. Den var så varm att han fick brännskador i röven. För att se hur stora brännskadorna var tryckte han
+upp näven i sin röv ✊. Brännskadan var ganska stor, tänkte hna, så han hällde en massa coca cola i röven.
+Det började däremot bubbla så våldsamt att det sprutade flera liter cola överallt, då blev hans hus fyllt med cola. Slut!
+`]
 
 
 /*
