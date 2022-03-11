@@ -46,6 +46,15 @@ Så mjukt att hon somnade på direketen. Väl utanför Mert röv gick Mert tillb
 Väl hemma åt han upp brödet genom att suga upp det i sin röv, tantjäveln dog. Den var så varm att han fick brännskador i röven. För att se hur stora brännskadorna var tryckte han
 upp näven i sin röv ✊. Brännskadan var ganska stor, tänkte hna, så han hällde en massa coca cola i röven.
 Det började däremot bubbla så våldsamt att det sprutade flera liter cola överallt, då blev hans hus fyllt med cola. Slut!
+`],[
+"Mert 5 - Rövmobilen", `
+Mert hade slut på mjölk i kylen, det var inte alls bra 😔. Därför var han tvugen att dra till coop, jag vet inte om det finns i Finland men ändå.
+När han gick omkring i coop ringde hans röv däremot vilket var lite jobbigt, han svarade och sa hejdå. Då märkte han att det var tantjävelns telefon. 
+Han stoppade därför tillbaka telefonen i röven och fortsatte handla, det fanns ett stort hål framför mjölken med en massa borttappade pappor i sig. 😡 Han sträckte sig tvärs över
+alla pappor för att hämta mjölken MEN DÅ snubblade han och ramlade nästan ner i helåt, det hade varit ett stort jävla bruh moment för Mert, bruh 🙄. 
+Han skyndade sig snabbt till kassan för att checka ut och kassörskan skannade alla hans fina mjölkpaket som han hade köpt. Hej, sa kassörskan och dog av kåthet på grund av Mert 😩.
+Hej hej, sa Mert tillbaka och kassörskan tänkte säga hej igen men det gick tyvärr inte på grund av att hon tyvärr var död 😔. Nu kunde Mert äntligen återvända till sin rövhåla och äta sina ouppätna flingor.
+Istället för att äta dem så tryckte han tyvärr upp dem i röven. Då blev flingorna tyvärr väldigt blöta 😔 och äckliga. Det gör inget, sa Mert lugnt och med flingor i röven. Slut!
 `]
 ]
 
