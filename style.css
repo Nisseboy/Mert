@@ -11,8 +11,6 @@ html, body {
     margin: 0px;
     height: 100%;
 
-    overflow: hidden;
-
     background-color: var(--background);
 }
 .container {
@@ -27,6 +25,10 @@ html, body {
 }
 .title {
     color: var(--text);
+    background-color: var(--background);
+
+    position: sticky;
+    top: 0;
 }
 .teskt {
     color: var(--text);
@@ -34,7 +36,8 @@ html, body {
 }
 
 .buttons {
-    position: absolute;
+    position: sticky;
+    background-color: var(--background);
     bottom: 0.5em;
 }
 
