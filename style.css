@@ -27,7 +27,7 @@ html, body {
     color: var(--text);
     background-color: var(--background);
 
-    position: sticky;
+    position: fixed;
     top: 0;
 }
 .teskt {
