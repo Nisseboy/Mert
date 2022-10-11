@@ -39,6 +39,7 @@ html, body {
     position: sticky;
     background-color: var(--background);
     bottom: 0.5em;
+    display: flex;
 }
 
 button {
