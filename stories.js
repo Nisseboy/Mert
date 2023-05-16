@@ -56,7 +56,16 @@ Han skyndade sig snabbt till kassan för att checka ut och kassörskan skannade 
 Hej hej, sa Mert tillbaka och kassörskan tänkte säga hej igen men det gick tyvärr inte på grund av att hon tyvärr var död 😔. Nu kunde Mert äntligen återvända till sin rövhåla och äta sina ouppätna flingor.
 Istället för att äta dem så tryckte han tyvärr upp dem i röven. Då blev flingorna tyvärr väldigt blöta 😔 och äckliga. Det gör inget, sa Mert lugnt och med flingor i röven. Slut!
 `]
-]
+],[
+"Mert 6 - Borp Reinkarnerad", `
+Det var en väldigt speciell dag idag, det var nämligen Merts födelsedag, därför fick han två fiskar i brevlådan enligt finsk tradition. Det var däremot inga vanliga fiskar, de var BÖGA 🍆 vilket betydde att de var böjda. 
+Tro det eller ej men han satte dem i ett akvarium tillsammans. Bara ynka tre dagar efter detta undret försökte de knulla (fiskarna alltså), det gick sådär då de var kraftigt böjda.
+MEN DÅ kom gud ned från himlen och med ett vift av snoppen och ett slag av toppen började den ena (Sven) föda 😳. HAns röv började pulsera kraftigt och ut kom en skrikande boll av smärta, en grön boll av smärta rättare sagt.
+Sven skrek av smärta när upptäckten av alla taggar äntligen träffade honom som en lastbil körd av en kvinna.
+Efter flera minuters smärta klev Borp ur Svens baksida med väldans fart.
+Ånej 😩, tänkte Mert när han såg honom åka ut, han hade ju nämligen snott Borps bröd i del ett. När hela Borp var ute satte han geast fart mot akvarieglaset för att fylla Merts lägenhet av vatten och glassplitter.
+Det gick däremote inte eftersom Mert hade fått en trollkarl att förtrolla glaset dagen innan. Det betydde att Borp drunknade igen, ganska likt hans förra död som jag inte tänker avslöja något om än. Slut!
+`]
 
 
 /*
